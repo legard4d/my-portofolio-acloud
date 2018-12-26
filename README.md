@@ -5,4 +5,7 @@ Training with aloud.guru on AWS and ReactJS.
 
 Git and GitHub
 SSH
-
+CSS
+HTML
+Font Awesome
+Google Fonts
